@@ -1,0 +1,6 @@
+{
+  "name": "Setu AI - Healthcare Admin Intelligence",
+  "description": "Executive strategy and working prototype for Setu AI by Team Prompt!Please (Sri Venkateswara College & DTU). Consent-first healthcare admin & claims AI layer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
